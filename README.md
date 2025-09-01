@@ -1,5 +1,5 @@
-# Auto-Background-Changer
-A simple lightweight program to automatically change your wallpaper to a specific image at a specified time.
+# Wallpaper Scheduler
+A simple lightweight program to automatically change your wallpaper to an image at a specified time.
 
 HOW TO USE:
 1. Place the .jpg image you want to change you background to into the "Backgrounds" folder of the program.
